@@ -1,0 +1,8 @@
+ipykernel
+openpyxl
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+pandas-profiling
