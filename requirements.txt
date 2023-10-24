@@ -6,3 +6,7 @@ seaborn
 matplotlib
 scikit-learn
 pandas-profiling
+spacy
+nltk
+bs4
+pyspellchecker
